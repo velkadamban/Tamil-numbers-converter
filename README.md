@@ -1,10 +1,10 @@
-# TamilNumbers
+# Tamilnumbers
 
-TamilNumbers is a Python package for converting Hindu-Arabic numerals to Tamil numerals.
+Tamilnumbers is a Python package for converting Hindu-Arabic numerals to Tamil numerals.
 
 ## Installation
 
-You can install TamilNumbers using pip:
+You can install Tamilnumbers using pip:
 
 pip install Tamilnumbers
 
